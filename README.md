@@ -4,7 +4,7 @@ Custom Docker images built to be reusable across all of our projects.
 
 ## List of the images of this repository
 
-- [PHP 7.3 + Vapor CLI](/php/7.3-cli/vapor) - A CLI-only PHP 7.3 that comes with Composer and Vapor CLI pre-loaded
+- [PHP 7.3 + Laravel Vapor CLI](/php/7.3-cli/vapor) - A CLI-only PHP 7.3 that comes with Composer and Laravel Vapor CLI pre-loaded
 
 ## How to use the Docker images
 
