@@ -1,4 +1,7 @@
 # Hoverflow Docker Images
+![GitHub](https://img.shields.io/github/license/hoverflowfr/docker-images?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/hoverflowfr/docker-images?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/hoverflowfr/docker-images?style=for-the-badge)
 
 Custom Docker images built to be reusable across all of our projects.
 
