@@ -1,6 +1,6 @@
 # PHP 7.3 + Laravel Vapor CLI
-![Docker Automated](https://img.shields.io/docker/automated/hoverflow/php7.3-cli-vapor?style=for-the-badge)
-![Docker Build](https://img.shields.io/docker/build/hoverflow/php7.3-cli-vapor?style=for-the-badge)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/hoverflow/php7.3-cli-vapor?style=for-the-badge)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hoverflow/php7.3-cli-vapor?style=for-the-badge)
 ![Docker Stars](https://img.shields.io/docker/stars/hoverflow/php7.3-cli-vapor?style=for-the-badge)
 ![Docker Pulls](https://img.shields.io/docker/pulls/hoverflow/php7.3-cli-vapor?style=for-the-badge)
 
