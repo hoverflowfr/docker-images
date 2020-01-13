@@ -14,6 +14,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   && docker-php-ext-install bcmath \
   && docker-php-ext-install gd \
   && docker-php-ext-install exif \
+  && docker-php-ext-install imagick \
   && rm -rf /var/lib/apt/lists/* \
   && apt-get clean
 
