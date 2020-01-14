@@ -9,6 +9,7 @@ ENV PATH=/root/.composer/vendor/bin:$PATH
 RUN apt-get update && apt-get install -y --no-install-recommends \
   curl git apt-utils python3-dev python3-pip python3-setuptools unzip \
   zlib1g-dev libzip-dev libwebp-dev libjpeg-dev libpng-dev libz-dev libxpm-dev \
+  libmagickwand-dev libmagickcore-dev \
   && pip3 install awscli \
   && docker-php-ext-install zip \
   && docker-php-ext-install bcmath \
